@@ -1,7 +1,7 @@
 
 
 
-import pygame
+import pygame #підключення модуля пайгейм
 import time
 import random
 
