@@ -1,3 +1,3 @@
 from pygame import *
-from random import randint
+import random
 from turtle import * 
